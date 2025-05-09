@@ -1,0 +1,14 @@
+C:\Users\benjy\Desktop\Elyo\standalone\Elyo\bin\Debug\net8.0\Elyo.exe
+C:\Users\benjy\Desktop\Elyo\standalone\Elyo\bin\Debug\net8.0\Elyo.deps.json
+C:\Users\benjy\Desktop\Elyo\standalone\Elyo\bin\Debug\net8.0\Elyo.runtimeconfig.json
+C:\Users\benjy\Desktop\Elyo\standalone\Elyo\bin\Debug\net8.0\Elyo.dll
+C:\Users\benjy\Desktop\Elyo\standalone\Elyo\bin\Debug\net8.0\Elyo.pdb
+C:\Users\benjy\Desktop\Elyo\standalone\Elyo\obj\Debug\net8.0\Elyo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benjy\Desktop\Elyo\standalone\Elyo\obj\Debug\net8.0\Elyo.AssemblyInfoInputs.cache
+C:\Users\benjy\Desktop\Elyo\standalone\Elyo\obj\Debug\net8.0\Elyo.AssemblyInfo.cs
+C:\Users\benjy\Desktop\Elyo\standalone\Elyo\obj\Debug\net8.0\Elyo.csproj.CoreCompileInputs.cache
+C:\Users\benjy\Desktop\Elyo\standalone\Elyo\obj\Debug\net8.0\Elyo.dll
+C:\Users\benjy\Desktop\Elyo\standalone\Elyo\obj\Debug\net8.0\refint\Elyo.dll
+C:\Users\benjy\Desktop\Elyo\standalone\Elyo\obj\Debug\net8.0\Elyo.pdb
+C:\Users\benjy\Desktop\Elyo\standalone\Elyo\obj\Debug\net8.0\Elyo.genruntimeconfig.cache
+C:\Users\benjy\Desktop\Elyo\standalone\Elyo\obj\Debug\net8.0\ref\Elyo.dll
