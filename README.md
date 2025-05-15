@@ -22,6 +22,7 @@ Le site web officiel du projet est accessible à l'adresse suivante :
 ## Contribuer
 
 Si vous souhaitez contribuer à l'amélioration du projet, vous pouvez ouvrir une *issue* ou soumettre une *pull request* sur notre repository GitHub.
+Fenrir
 
 ---
 
